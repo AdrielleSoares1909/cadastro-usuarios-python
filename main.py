@@ -56,6 +56,7 @@ while True:
         listar_usuarios()
     elif opcao == "3":
         print("Saindo do sistema.")
+        break
     else:
         print("Opacao invalida")
 
